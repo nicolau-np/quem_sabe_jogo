@@ -1,0 +1,73 @@
+.container{
+    padding-top: 2%;
+}
+
+#top
+{
+    background-color: #D35310;
+}
+h1
+{
+    color:#fff;
+    font-family: "Century Gothic";
+}
+ul li a
+{
+  color:#fff;  
+}
+ul li a:hover
+{
+  color:#fff;  
+
+}
+#ret{
+      padding-top: 2%;
+}
+#sub-top
+{
+    background-color: #333;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+#p-top
+{
+    background-color: #333;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    color:#fff;
+    font-family: "Century Gothic";
+}
+
+#conteudo
+{   margin: 50px;
+    background-color: #f5f5f5;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#rodape
+{
+     padding-top: 2px;
+    padding-bottom: 2px;
+     color:#fff;
+    font-family: "Century Gothic";
+    text-align: center;
+ background-color: #333;   
+}
+
+.nav li
+{
+    background-color: #333;
+    color:#fff;
+    font-family: "Century Gothic";
+}
+.nav li a:hover
+{
+    background-color: #D35310;
+ 
+}
+#ih{
+  font-family: "Century Gothic";
+}
+#cv{
+    background-color: #f5f5f5;
+}
